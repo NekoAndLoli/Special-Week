@@ -1,2 +1,2 @@
 # Special-Week
-Repo for HCI prohect
+Repo for HCI project
